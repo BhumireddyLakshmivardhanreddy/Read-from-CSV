@@ -27,3 +27,4 @@ print("Number of columns:",len(df.axes[1]))
 ![cvs](https://github.com/BhumireddyLakshmivardhanreddy/Read-from-CSV/assets/148514637/a6cd1844-4724-4849-b8c5-889ad09b4e51)
 
 ## RESULT:
+Thus python program for reading content from a CSV file is successful.
